@@ -1,0 +1,471 @@
+.navegacion {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  background: -webkit-gradient(linear, left top, right top, from(#031FC6), color-stop(101.79%, #8BDA5A));
+  background: -webkit-linear-gradient(left, #031FC6 0%, #8BDA5A 101.79%);
+  background: -o-linear-gradient(left, #031FC6 0%, #8BDA5A 101.79%);
+  background: linear-gradient(90deg, #031FC6 0%, #8BDA5A 101.79%); }
+
+.navbar {
+  padding: 0px 25px 0px 25px !important; }
+
+.top-nav-collapse {
+  background: #020024;
+  background: -webkit-gradient(linear, left top, right top, from(#020024), color-stop(35%, #090979), to(#00d4ff));
+  background: -webkit-linear-gradient(left, #020024 0%, #090979 35%, #00d4ff 100%);
+  background: -o-linear-gradient(left, #020024 0%, #090979 35%, #00d4ff 100%);
+  background: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%); }
+
+.enlaces {
+  padding-right: 85px; }
+  .enlaces li {
+    padding: 0px 40px; }
+    .enlaces li a {
+      color: #FFFFFF !important;
+      font-family: 'Open Sans', sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      padding: 20px;
+      line-height: 25px; }
+
+li.nav-item:hover {
+  border-top: 3px solid white; }
+
+.logo img {
+  padding: 10px; }
+
+.comerceapp {
+  background: -webkit-gradient(linear, right top, left top, color-stop(-10.32%, #8BDA5A), to(#1435B9));
+  background: -webkit-linear-gradient(right, #8BDA5A -10.32%, #1435B9 100%);
+  background: -o-linear-gradient(right, #8BDA5A -10.32%, #1435B9 100%);
+  background: linear-gradient(270deg, #8BDA5A -10.32%, #1435B9 100%);
+  padding: 142px 25px 0px 25px; }
+
+.ayuda {
+  padding-top: 20px; }
+  .ayuda h1 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 82px;
+    color: #FFFFFF; }
+  .ayuda p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding: 20px 0px; }
+  .ayuda img {
+    padding-right: 22px; }
+
+.lugar {
+  padding: 100px 0px;
+  background: #1D42B1; }
+
+.lugarreser h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #FFFFFF; }
+
+.lugarreser p {
+  padding: 20px 120px 0px 0px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #FFFFFF; }
+
+.promociones {
+  padding: 100px 0px;
+  background: #88D65C; }
+
+.promoparra h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #1335B9; }
+
+.promoparra p {
+  padding: 20px 130px 0px 0px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #FFFFFF; }
+
+.perder p {
+  padding: 20px 90px 0px 0px !important; }
+
+.marge {
+  padding: 0px !important; }
+
+.comercio {
+  padding: 0px 0px 0px 240px !important; }
+  .comercio span {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 6.66667px;
+    text-transform: uppercase;
+    color: #B3B3B3; }
+  .comercio h2 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 54px;
+    color: #4A4A4A; }
+  .comercio p {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4A4A4A; }
+
+.botcolor {
+  background: #88D65C !important;
+  padding: 10px 60px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 50px; }
+
+.ventas {
+  background: #eee; }
+
+.botcolor:hover {
+  background: white !important;
+  border: 3px solid #88D65C;
+  color: #88D65C; }
+
+.faqs {
+  padding: 77px 0px; }
+
+.tema h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #1335B9; }
+
+.tema p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #9B9B9B; }
+
+.acord {
+  padding-top: 50px; }
+
+.card-header {
+  background: white !important;
+  border-top: 1px solid #ddd9d9; }
+  .card-header h5 {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #312F2E;
+    padding: 10px 0px !important; }
+    .card-header h5 .colorico {
+      color: #0071BB; }
+
+.card-body {
+  padding: 30px 100px !important; }
+  .card-body p {
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 25px;
+    color: #7F7F7F; }
+  .card-body p:hover {
+    border-left: 2px solid #0071BB;
+    padding-left: 15px; }
+
+.contact {
+  padding: 44px 0px;
+  background: #F5F5F5; }
+
+.contac h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 48px;
+  color: #363636;
+  padding-bottom: 40px; }
+
+.correo {
+  padding: 90px 90px 40px 90px; }
+
+.nombre {
+  padding-bottom: 60px; }
+  .nombre label {
+    font-family: Open Sans !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+    line-height: 20px !important;
+    color: #1335B9 !important; }
+  .nombre input {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #A5A5A5;
+    border: none !important;
+    border-bottom: 1px solid #E0E0E0 !important; }
+
+.enviar {
+  padding-top: 18px !important; }
+  .enviar button {
+    padding: 14px 65px !important;
+    background: #1335B9 !important;
+    border-radius: 6px; }
+
+.enviar button:hover {
+  background: white !important;
+  border: 3px solid #1335B9;
+  color: #1335B9; }
+
+.foo {
+  background: #111111;
+  padding: 20px 0px; }
+
+.iconfoo i {
+  color: #FFFFFF;
+  font-size: 1.4rem; }
+
+.copy {
+  padding-top: 20px;
+  font-family: OpenSans;
+  font-size: 16px;
+  line-height: 19px;
+  color: #8A8A8A; }
+
+.banner {
+  background-image: url(../img/principal.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; }
+
+.mejora h1 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 82px;
+  text-align: center;
+  color: #FFFFFF; }
+
+.mejora p {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 10px; }
+
+.espacio {
+  padding: 85px 20px 85px 0px !important; }
+
+.negocio {
+  font-weight: bold !important;
+  font-family: Open Sans;
+  color: black !important;
+  font-size: 16px !important; }
+
+.bnpara h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 48px;
+  color: #1D42B1; }
+
+.bnpara p {
+  padding: 4px 0px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 22px;
+  color: #9B9B9B; }
+
+.beneficios {
+  background: -webkit-radial-gradient(48.46% 50%, 790px, #FFFFFF 0%, #EEF2F6 100%);
+  background: -o-radial-gradient(48.46% 50%, 790px, #FFFFFF 0%, #EEF2F6 100%);
+  background: radial-gradient(790px at 48.46% 50%, #FFFFFF 0%, #EEF2F6 100%); }
+
+.group img {
+  margin-left: 14px !important; }
+
+.cancel {
+  padding: 0px 0px !important; }
+
+.cliente h2 {
+  font-family: Open Sans;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 30px !important;
+  line-height: 41px !important;
+  color: #4A4A4A !important; }
+
+.cliente p {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #9B9B9B;
+  padding: 20px 0px; }
+
+.reporte {
+  background: #1335B9;
+  padding: 150px 0px; }
+
+.rept img {
+  margin-left: 15px !important; }
+
+.repor h2 {
+  color: white !important; }
+
+.repor p {
+  color: #FFFFFF; }
+
+.comercios {
+  padding: 77px 0px; }
+
+.aliado h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 48px;
+  text-align: center;
+  color: #363636; }
+
+.aliado p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #363636;
+  padding: 20px 0px; }
+
+.nosotr {
+  padding-top: 57px; }
+
+.planes {
+  padding: 100px 0px;
+  background: #000D44; }
+
+.planeser h2 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 54px;
+  color: #FFFFFF; }
+
+.planeser p {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #F1F1F1;
+  padding: 10px 40px 10px 0px; }
+
+.planeser a {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  color: #88D65C; }
+
+.planeser a:hover {
+  color: white; }
+
+@media (max-width: 767px) {
+  .mejora h1 {
+    padding-top: 70px; }
+  .planeser p {
+    padding: 0px 0px; }
+  .planes {
+    padding: 50px 0px; }
+  .reporte {
+    padding: 10px; }
+  .cliente h2 {
+    padding-top: 40px; }
+  .group img {
+    margin-left: 0px !important; }
+  .bnpara {
+    padding: 0px 50px !important; }
+  .enviar {
+    padding-top: 0px !important; }
+    .enviar button {
+      padding: 14px 50px !important; }
+  .correo {
+    padding: 50px; }
+  .ayuda {
+    padding-top: 0px; }
+    .ayuda img {
+      width: 45%;
+      padding-bottom: 22px; }
+    .ayuda h1 {
+      font-size: 45px;
+      line-height: 52px; }
+  .comerceapp {
+    padding: 100px 25px 0px 25px; }
+  .lugar {
+    padding: 60px 0px; }
+    .lugar p {
+      padding: 20px 0px; }
+  .promociones {
+    padding: 60px 0px; }
+    .promociones p {
+      padding: 20px  0px; }
+  .heig h2 {
+    line-height: 48px;
+    font-weight: bold !important; }
+  .perder p {
+    padding: 20px  0px !important; }
+  .comercio {
+    padding: 0px 0px !important; }
+    .comercio h2 {
+      line-height: 40px;
+      font-weight: bold !important; }
+    .comercio p {
+      padding: 10px; }
+  .ima1 img {
+    margin-bottom: 20px; }
+  .faqs {
+    padding: 60px 0px; }
+  .card-body {
+    padding: 20px 40px !important; } }
